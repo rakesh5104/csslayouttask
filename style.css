@@ -1,0 +1,394 @@
+body{
+    background-color: black;
+}
+#php{
+    background-color:rgb(238, 157, 216);
+    text-align: center;
+    padding:10px;
+    border-radius: 5px;
+    width: 550px;
+    height: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+ input{
+    background-color: black;
+    color: white;
+    border-radius: 200px;
+    padding: 9px;
+    width: 150px;
+    
+}
+#jquery{
+    background-color: rgb(222, 244, 166);
+    text-align: center;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+#java{
+    background-color: rgb(241, 223, 225);
+    text-align: center;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}  
+#c{
+    background-color: rgb(166, 185, 166);
+    text-align: center;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+#w3{
+    background-color: rgb(97, 166, 179);
+    text-align: center;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+#bootstrap{
+    background-color: rgb(221, 216, 236);
+    text-align: center;
+    padding:10px;
+    height:150px;
+    border-radius: 5px;
+    width: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    display: inline-block;
+    margin-left: 100px;
+}
+#small{
+    background-color: rgb(238, 157, 216);
+    text-align: center;
+    width: 550px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: inline-block;
+}
+#smalltwo{
+    background-color:rgb(222, 244, 166);
+    text-align: center;
+    width: 550px; 
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 120px;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+#smone{
+    background-color: rgb(241, 223, 225);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+
+}
+#stwo{
+    background-color: rgb(166, 185, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 73px;
+}
+#smone,#stwo{
+    display: inline-block;
+    margin-top: 20px;
+}
+#smthree{
+    background-color: rgb(97, 166, 179);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 120px;  
+}
+#smfour{
+    background-color: rgb(238, 157, 216);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+#smthree, #smfour{
+    display: inline-block;
+    margin-top: 20px;  
+}
+#json{
+    background-color: rgb(222, 244, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;   
+}
+#vue{
+    background-color: rgb(241, 223, 225);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+#json,#vue{
+    display: inline-block;
+    margin-top: 20px;    
+}
+#mysql{
+    background-color: rgb(166, 185, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 120px;  
+}
+#xml{
+    background-color: rgb(97, 166, 179);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 70px;  
+}
+#mysql,#xml{
+    display: inline-block;
+    margin-top: 20px;   
+}
+#sass{
+    background-color: rgb(238, 157, 216);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px; 
+}
+#cons{
+    background-color: rgb(222, 244, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+#sass,#cons{
+    display: inline-block;
+    margin-top: 20px;   
+}  
+
+#rwd{
+    background-color: rgb(241, 223, 225);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 120px; 
+}
+#graphics{
+    background-color: rgb(166, 185, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 70px;    
+}
+#rwd,#graphics{
+    display: inline-block;
+    margin-top: 20px;   
+}
+#svg{
+    background-color: rgb(97, 166, 179);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+#canvas{
+    background-color: rgb(238, 157, 216);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+#svg,#canvas{
+    display: inline-block;
+    margin-top: 20px;    
+}
+#ras{
+    background-color: rgb(222, 244, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 120px; 
+}
+#cyber{
+    background-color: rgb(241, 223, 225);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 70px; 
+}
+#ras,#cyber{
+    display: inline-block;
+    margin-top: 20px;  
+}
+#colors{
+    background-color: rgb(166, 185, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+#git{
+    background-color: rgb(97, 166, 179);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 75px;
+}
+#colors,#git{
+    display: inline-block;
+    margin-top: 20px;  
+}
+#matplotlib{
+    background-color: rgb(238, 157, 216);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 120px; 
+}
+#numpy{
+    background-color: rgb(222, 244, 166);
+    text-align: center;
+    width: 225px;
+    height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 70px; 
+}
+#matplotlib,#numpy{
+    display: inline-block;
+    margin-top: 20px;  
+}
+#excel{
+    background-color: rgb(133, 179, 179);
+    text-align: center;
+    width: 550px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;  
+}
+#dsa{
+    background-color:rgb(222, 244, 166);
+    text-align: center;
+    width: 550px; 
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 120px;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block; 
+}
+#machine{
+    background-color:rgb(238, 157, 216);
+    text-align: center;
+    width: 550px;
+    height: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+#art{
+    background-color:rgb(241, 223, 225);
+    text-align: center;
+    width: 550px; 
+    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 120px;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
